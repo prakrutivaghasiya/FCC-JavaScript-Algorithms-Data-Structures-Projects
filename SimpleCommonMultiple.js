@@ -1,3 +1,5 @@
+// Finds LCM of the given range!
+
 function smallestCommons(arr) {
     // Sorting arr in ascending order :
     arr.sort((a, b) => a - b);
